@@ -1,12 +1,12 @@
 {
-    "version": "0.10.2",
+    "version": "0.10.3",
     "description": "CLI tool that shows all possible interpretations of any data input",
     "homepage": "https://github.com/mjukis-ab/formatorbit",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/mjukis-ab/formatorbit/releases/download/v0.10.2/forb-v0.10.2-x86_64-pc-windows-msvc.zip",
-            "hash": "845a71697791f5014c4845e0c39efa0578b31cd9c96d34ec436999eeddd8c78d"
+            "url": "https://github.com/mjukis-ab/formatorbit/releases/download/v0.10.3/forb-v0.10.3-x86_64-pc-windows-msvc.zip",
+            "hash": "aee8ddfd67391711af9eff6b238bf3590c4f4e4924300cb751bf3d707101982d"
         }
     },
     "bin": "forb.exe",
