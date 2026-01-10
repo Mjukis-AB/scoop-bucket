@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/mjukis-ab/formatorbit/releases/download/v0.10.2/forb-v0.10.2-x86_64-pc-windows-msvc.zip",
-            "hash": "97aeb17b90119c82e3cc4f96ee08e89396c0703c4949abc84494edbf7eaaef78"
+            "hash": "845a71697791f5014c4845e0c39efa0578b31cd9c96d34ec436999eeddd8c78d"
         }
     },
     "bin": "forb.exe",
